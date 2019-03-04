@@ -31,7 +31,7 @@ import java.util.List;
  *                                               |               | ARCHIVED |
  *                                               +-------------->+----------+
  *
- * @see  for the "implementation"
+ * @see state.machine.StateMachine for the "implementation"
  * <p>
  * - rights => rights needed to access the state
  * - getAccessibleFrom => State from where you can access the state
